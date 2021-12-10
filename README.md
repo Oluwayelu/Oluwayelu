@@ -1,5 +1,7 @@
 ### Welcome to my world 👋
 
+[![Profile views](https://gpvc.arturio.dev/oluwayelu)](https://gpvc.arturio.dev/oluwayelu)
+
 **Oluwayelu's Github stats**  
 [![Oluwayelu's Github stats](https://github-readme-stats.vercel.app/api?username=Oluwayelu&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
